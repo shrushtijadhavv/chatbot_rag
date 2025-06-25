@@ -1,0 +1,8 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines. AI includes fields like machine learning, natural language processing, robotics, and computer vision.
+
+Types of AI:
+1. Narrow AI: Task-specific (e.g., Siri)
+2. General AI: Human-level reasoning
+3. Super AI: Beyond human intelligence (theoretical)
+
+Machine Learning (ML) is a subset of AI where systems learn from data.

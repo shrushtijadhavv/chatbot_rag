@@ -1,0 +1,6 @@
+Algorithm,Type,Use Case
+Linear Regression,Supervised,Prediction
+Decision Tree,Supervised,Classification
+Random Forest,Supervised,Ensemble Learning
+KNN,Supervised,Classification
+SVM,Supervised,Classification

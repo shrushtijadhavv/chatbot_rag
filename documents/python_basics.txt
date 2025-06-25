@@ -1,0 +1,11 @@
+Python is a high-level, interpreted programming language.
+
+Key concepts include:
+- Variables: used to store data (e.g., x = 5)
+- Data Types: int, float, str, list, dict, etc.
+- Loops: for and while
+- Functions: Defined using def keyword
+
+Example:
+def greet(name):
+    return f"Hello, {name}"
