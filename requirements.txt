@@ -1,0 +1,6 @@
+gradio
+langchain
+chromadb
+sentence-transformers
+transformers
+PyPDF2

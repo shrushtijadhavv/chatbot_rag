@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+chroma_db/
+uploads/
+logs/
+data/
+models/
+*.sqlite3
+*.db
+*.log
