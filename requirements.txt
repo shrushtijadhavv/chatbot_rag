@@ -4,3 +4,7 @@ chromadb
 sentence-transformers
 transformers
 PyPDF2
+scikit-learn
+python-dotenv
+requests
+unstructured
